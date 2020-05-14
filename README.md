@@ -14,7 +14,7 @@ Which **GOF** design patterns contains this repository?
 
 ### Structural Design Patterns
 - ***Adapter*** -> *Allows for two incompatible classes to work together by adding an interface*.
-- ***Bridge*** -> *Decouples an abstraction so two classes can vary independently*.
+- ~~Bridge~~.
 - ***Composite*** -> *Takes a group of objects into a single object*.
 - ***Decorator*** -> *Allows for an object’s behavior to be extended dynamically at run time*.
 - ***Facade*** -> *Provides a simple interface to a more complex underlying object*.
