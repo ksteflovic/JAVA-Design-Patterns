@@ -5,14 +5,14 @@
 
 ## Gang of Four Design Patterns
 Which **GOF** design patterns contains this repository?
-### Creational Design Patterns
+### [Creational Design Patterns](Creational%20Design%20Patterns)
 - ***Abstract Factory*** -> *Allows the creation of objects without specifying their concrete type*.
 - ***Builder*** -> *Uses to create complex objects*.
 - ***Factory Method*** -> *Creates objects without specifying the exact class to create*.
 - ***Prototype*** -> *Creates a new object from an existing object*.
 - ***Singleton*** -> *Ensures only one instance of an object is created*.
 
-### Structural Design Patterns
+### [Structural Design Patterns](Structural%20Design%20Patterns)
 - ***Adapter*** -> *Allows for two incompatible classes to work together by adding an interface*.
 - ~~Bridge~~.
 - ***Composite*** -> *Takes a group of objects into a single object*.
@@ -21,7 +21,7 @@ Which **GOF** design patterns contains this repository?
 - ~~Flyweight~~.
 - ~~Proxy~~.
 
-### Behavior Design Patterns
+### [Behavior Design Patterns](Behavior%20Design%20Patterns)
 - ~~Chain of Responsibility~~.
 - ***Command*** -> *Creates objects which encapsulate actions and parameters*.
 - ~~Interpreter~~.
