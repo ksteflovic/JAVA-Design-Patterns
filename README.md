@@ -1,5 +1,38 @@
-# JAVA-Design-Patterns
-🎨 Design patterns implemented in Java
+# JAVA Design Patterns
+
+## Introduction
+
+
+## Gang of Four Design Patterns
+Which **GOF** design patterns contains this repository?
+### Creational Design Patterns
+- ***Abstract Factory*** -> *Allows the creation of objects without specifying their concrete type*.
+- ***Builder*** -> *Uses to create complex objects*.
+- ***Factory Method*** -> *Creates objects without specifying the exact class to create*.
+- ***Prototype*** -> *Creates a new object from an existing object*.
+- ***Singleton*** -> *Ensures only one instance of an object is created*.
+
+### Structural Design Patterns
+- ***Adapter*** -> *Allows for two incompatible classes to work together by adding an interface*.
+- ***Bridge*** -> *Decouples an abstraction so two classes can vary independently*.
+- ***Composite*** -> *Takes a group of objects into a single object*.
+- ***Decorator*** -> *Allows for an object’s behavior to be extended dynamically at run time*.
+- ***Facade*** -> *Provides a simple interface to a more complex underlying object*.
+- ~~Flyweight~~.
+- ~~Proxy~~.
+
+### Behavior Design Patterns
+- ~~Chain of Responsibility~~.
+- ***Command*** -> *Creates objects which encapsulate actions and parameters*.
+- ~~Interpreter~~.
+- ***Iterator*** -> *Accesses the elements of an object sequentially without exposing its underlying representation*.
+- ~~Mediator~~.
+- ~~Memento~~.
+- ***Observer*** -> *Is a publish/subscribe pattern which allows a number of observer objects to see an event*.
+- ~~State~~.
+- ***Strategy*** -> *Allows one of a family of algorithms to be selected on-the-fly at run-time*.
+- ***Template Method*** -> *Defines the skeleton of an algorithm as an abstract class, allowing its sub-classes to provide concrete behavior*.
+- ~~Visitor~~.
 
 
 <!-- Footer -->
