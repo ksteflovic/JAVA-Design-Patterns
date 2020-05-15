@@ -1,0 +1,118 @@
+SUBOR
+Line count: 3
+
+Word ahoj is on lines: 1, 
+
+a-5
+h-1
+o-1
+j-1
+l-1
+e-1
+c-1
+u-1
+n-1
+z-1
+d-1
+r-1
+
+File without any space: ahojalecaunazdar
+
+HTML parsed file:
+<!DOCTYPE html>
+<html>
+<body>
+ahoj</ br>ale cau</ br>nazdar</ br>
+</body>
+</html>
+------------------------------
+SUBOR
+Line count: 6
+
+Word ahoj is on lines: 1, 
+
+a-5
+h-1
+o-2
+j-1
+n-1
+i-3
+c-2
+k-3
+d-2
+u-1
+s-2
+e-1
+b-1
+l-1
+
+File without any space: ahojanickadusickakdesibola
+
+HTML parsed file:
+<!DOCTYPE html>
+<html>
+<body>
+ahoj</ br>anicka</ br>dusicka</ br>kde</ br>si</ br>bola</ br>
+</body>
+</html>
+------------------------------
+SUBOR
+Line count: 4
+
+Word ahoj is not in this file.
+
+s-4
+l-2
+o-5
+v-2
+a-2
+k-4
+i-2
+n-2
+e-2
+m-1
+c-1
+r-1
+u-1
+
+File without any space: slovakianemeckoruskoslovinsko
+
+HTML parsed file:
+<!DOCTYPE html>
+<html>
+<body>
+slovakia</ br>nemecko</ br>rusko</ br>slovinsko</ br>
+</body>
+</html>
+------------------------------
+SUBOR
+Line count: 4
+
+Word ahoj is on lines: 2, 4, 
+
+k-1
+o-6
+m-2
+u-2
+s-2
+a-4
+n-3
+e-4
+l-4
+i-2
+,-2
+h-2
+j-2
+t-1
+z-1
+
+File without any space: komusanelenilo,ahojtomusazelenilo,ahoj
+
+HTML parsed file:
+<!DOCTYPE html>
+<html>
+<body>
+komu sa nelenilo,</ br>ahoj</ br>tomu sa zelenilo,</ br>ahoj</ br>
+</body>
+</html>
+------------------------------
