@@ -12,7 +12,7 @@ This repository contains **two** assignments done in *Builder design pattern*:
 - House
 - Form
 
-## [House](https://github.com/pajka-js/DP_Builder/tree/master/src/dp_builder_house) 🏠
+## [House](https://github.com/pajka-js/JAVA-Design-Patterns/tree/master/Creational%20Design%20Patterns/DP_Builder/src/dp_builder_house) 🏠
 Consider a construction of a home 🧱
 
 **House** is the final end product (object) that is to be returned as the output of the construction process.
