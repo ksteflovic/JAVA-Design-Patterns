@@ -15,7 +15,9 @@ The Factory Method Pattern is also known as *Virtual Constructor*.
 ## [Prototype](DP_Prototype) 🤖 
 Prototype pattern refers to creating **duplicate** object while keeping performance in mind. This type of design pattern comes under creational pattern as this pattern provides one of the best ways to create an object.
 ## [Singleton](DP_Singleton) 🔂
-This pattern is one of the simplest design patterns. The singleton pattern is a design pattern that restricts *the instantiation* of a class to **one**` object.
+This pattern is one of the simplest design patterns. It restricts *the instantiation* of a class to **one** object.
+
+The Singleton pattern disables all other means of creating objects of a class except for the special creation method. This method either creates a new object or returns an existing one if it has already been created.
 
 ---
 Source: geeksforgeeks.org
