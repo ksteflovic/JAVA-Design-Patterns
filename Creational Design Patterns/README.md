@@ -18,6 +18,7 @@ Prototype pattern refers to creating **duplicate** object while keeping performa
 This pattern is one of the simplest design patterns. It restricts *the instantiation* of a class to **one** object.
 
 The Singleton pattern disables all other means of creating objects of a class except for the special creation method. This method either creates a new object or returns an existing one if it has already been created.
+Note that you can always adjust this limitation and allow creating any number of Singleton instances. The only piece of code that needs changing is the body of the ```getInstance``` method.
 
 ---
 Source: geeksforgeeks.org
