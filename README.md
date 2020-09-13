@@ -1,11 +1,4 @@
 # JAVA Design Patterns
-
-UNDER RECONSTRUCTION
-WORKING ON THIS REPOSITORY
-
-## Introduction
-
-
 ## Gang of Four Design Patterns
 Which **GOF** design patterns contains this repository?
 ### [Creational Design Patterns](Creational%20Design%20Patterns)
